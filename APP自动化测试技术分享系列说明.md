@@ -44,6 +44,7 @@
 		<td><b>发布日期</b></td>
 		<td><b>主题名称</b></td>
 		<td><b>内容概要</b></td>
+		<td><b>状态</b></td>
 	</tr>
 	</tr>
 		<td><a href="">160719</a></td>
@@ -85,39 +86,7 @@
 
 ##二、基础篇
 #### 系列三： APP UI自动化测试Android篇
-<table>
-	<tr>
-		<td><b>发布计划</b></td>
-		<td><b>主题名称</b></td>
-		<td><b>内容概要</b></td>
-		<td><b>状态</b></td>
-	</tr>
-	<tr>
-		<td><a href="">160705</a></td>
-		<td>What's you name？</td>
-		<td>Android页面、布局与控件简介</td>
-		<td>未发布</td>
-	</tr>
-	<tr>
-		<td><a href="">160707</a></td>
-		<td>Mac平台IOS APP测小试</td>
-		<td>获取设备信息、运行monkey测试</td>
-		<td>未发布</td>
-	</tr>
-	<tr>
-		<td><a href="">1607012</a></td>
-		<td>Windows平台APP测试环境搭建</td>
-		<td>Android sdk,appium等工具安装与配置</td>
-		<td>未发布</td>
-	</tr>
-	<tr>
-		<td><a href="">160714</a></td>
-		<td>Windows平台APP测试小试</td>
-		<td>获取设备信息、运行monkey测试</td>
-		<td>未发布</td>
-	</tr>
-</table>
-
+内容及发布计划待定
 
 #### 系列四： APP API自动化测试
 内容及发布计划待定
