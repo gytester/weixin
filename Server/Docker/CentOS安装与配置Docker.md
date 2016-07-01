@@ -1,4 +1,5 @@
 ##Docker环境安装-基于CentOS
+@author:jy.zenist.song, crate:2016-6-28, LastEdited:2016-7-1
 
 #### 安装依赖
 

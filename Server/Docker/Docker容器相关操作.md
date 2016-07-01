@@ -1,4 +1,5 @@
 ##Docker容器相关操作
+@author:jy.zenist.song, crate:2016-6-28, LastEdited:2016-7-1
 
 Docker容器其生命周期供4个阶段，新建，运行，停止，删除。
 

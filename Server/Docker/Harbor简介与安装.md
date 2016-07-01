@@ -1,5 +1,7 @@
 ##Harbor安装
 
+@author:jy.zenist.song, crate:2016-6-28, LastEdited:2016-7-1
+
 ###1. Harbor简介
 
 Harbor，由VMware中国研发的团队负责开发。Harbor项目是帮助用户迅速搭建一个企业级的registry 服务。它以Docker公司开源的registry为基础，提供了管理UI, 基于角色的访问控制(Role Based Access Control)，AD/LDAP集成、以及审计日志(Audit logging) 等企业用户需求的功能，同时还原生支持中文

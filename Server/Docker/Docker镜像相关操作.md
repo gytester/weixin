@@ -1,5 +1,7 @@
 ##Docker镜像相关操作
 
+@author:jy.zenist.song, crate:2016-6-28, LastEdited:2016-7-1
+
 Docker运行容器需要在本次存在对应的镜像，如果镜像不存在，Docker会从镜像仓库进行下载（默认是Docker Hub公共Registry中的仓库）
 
 #####（1）获取镜像

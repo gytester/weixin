@@ -1,4 +1,5 @@
 ##使用Dockerfile构建镜像
+@author:jy.zenist.song, crate:2016-6-28, LastEdited:2016-7-1
 
 Dockerfile是一种Docker定义的自身解释性脚本，类似于C语言的Makefile，其内部是由一条一条指令组成，每条指令对应Linux下面的一条命令。
 

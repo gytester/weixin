@@ -1,4 +1,5 @@
 #Docker体系搭建
+@author:jy.zenist.song, crate:2016-6-28, LastEdited:2016-7-1
 
 Docker体系一个可以分为三个大部分，Docker-engine、Docker-compose、Harbor(Docker-registry)
 
@@ -7,12 +8,8 @@ Docker体系一个可以分为三个大部分，Docker-engine、Docker-compose�
 
 ## 一、Docker-engine
 Docker 是 PaaS 提供商 dotCloud 开源的一个基于 LXC 的高级容器引擎，源代码托管在 Github 上, 基于go语言并遵从Apache2.0协议开源。
-###1. Docker是什么？
 
-######Docker是一个开源的应用容器引擎
-让开发者可以打包他们的应用（服务）以及相关的依赖包到一个可移植的容器中，然后发布到任意的安有docker服务的机器上，使用者直接启动镜像即可。Docker的出现使得分发的服务与其依赖一体化，维护、使用与移植都变得更加便捷，如你要安装jenkins，直接与其官网下载jenkins-docker版本，无需安装任何依赖服务及进行任何配置项修改，直接在安有Docker的机器上运行就行。
-
-<font color="red">如果还没看懂，你可以简单理解Docker为一个用了新颖方式实现的超轻量级虚拟机，或者是一款提供系统服务的镜像与还原功能的ghost软件</font>
+* [Docker简介](https://github.com/gytester/weixin/blob/master/Server/Docker/CentOS%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AEDocker.md)
 
 ###2. Docker四要素
 ######（1）镜像Image
